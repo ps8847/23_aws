@@ -1,0 +1,7 @@
+is a exam based course  ,  we will be ABLE to crack aws exams for certiufciates with this course
+
+* Beneficial for Developers
+* System design will be covered
+* we will be able to recgnize what kind of db we nee to use for this particular case of project
+
+AWS has 350+ Services
