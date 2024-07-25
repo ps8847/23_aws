@@ -1,0 +1,1 @@
+Just search on google aws free tire and create the steps mentioend there on the site 
